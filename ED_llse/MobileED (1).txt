@@ -1,0 +1,8 @@
+1 google 10.10
+5 GoogleDrive 12.10
+4 instagran 20.50
+3 whatsapp 15.50
+2 facebook 11.30
+10 teste4 15.20
+5 GoogleDrive 12.10
+7 teste1 10.20
