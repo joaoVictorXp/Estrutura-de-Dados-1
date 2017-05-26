@@ -1,0 +1,17 @@
+1 google 10.1
+2 facebook 11.3
+3 whatsapp 15.5
+4 instagran 20.5
+3 whatsapp 15.5
+5 GoogleDrive 12.1
+5 GoogleDrive 12.1
+99 Pilha 10.0
+6 teste1 10.1
+7 teste2 11.1
+8 teste3 10.0
+9 teste4 13.1
+10 teste5 15.1
+11 teste6 11.3
+12 teste7 12.2
+13 teste8 11.2
+14 teste9 10.1
